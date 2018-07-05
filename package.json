@@ -1,0 +1,23 @@
+{
+  "name": "Fancy-UI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarekcham/Fancy-UI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarekcham/Fancy-UI/issues"
+  },
+  "homepage": "https://github.com/tarekcham/Fancy-UI#readme",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
